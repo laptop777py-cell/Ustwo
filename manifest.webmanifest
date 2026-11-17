@@ -1,0 +1,18 @@
+{
+  "name": "UsTwo \u2014 just us",
+  "short_name": "UsTwo",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090910",
+  "theme_color": "#0b0b12",
+  "description": "A private space for two.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
